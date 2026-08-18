@@ -4,7 +4,7 @@
 - ox_lib
 - Resource HUD/stress yang menyediakan event pengurangan stress, jika fitur stress digunakan.
 
-## Perubahan dari versi lama
+## UPDATE
 
 - Notifikasi menggunakan `ox_lib` (`lib.notify`).
 - Framework ditetapkan sebagai Qbox.
